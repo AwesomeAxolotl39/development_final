@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Deep Dish Apple Pie",
+    "pop": 4.8,
+    "time": 4,
+    "gf": "no",
+    "df": "no",
+    "image": "images/deep_dish.png"
+  },
+  {
+    "name": "Bagels",
+    "pop": 4.9,
+    "time": 3,
+    "gf": "no",
+    "df": "yes",
+    "image": "images/bagels.png"
+  },
+  {
+    "name": "Berry Streusal Bars",
+    "pop": 4.7,
+    "time": 1,
+    "gf": "yes",
+    "df": "yes",
+    "image": "images/berry_streusal.png"
+  },
+  {
+    "name": "Peppermint Bark Fudge",
+    "pop": 4.1,
+    "time": 4.5,
+    "gf": "yes",
+    "df": "no",
+    "image": "images/fudge.png"
+  },
+  {
+    "name": "Pavlova",
+    "pop": 4.2,
+    "time": 2.5,
+    "gf": "yes",
+    "df": "yes",
+    "image": "images/pavlova.png"
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "pop": 4.9,
+    "time": 3.5,
+    "gf": "no",
+    "df": "no",
+    "image": "images/choc_chip.png"
+  },
+  {
+    "name": "Cinnamon Rolls",
+    "pop": 5,
+    "time": 2,
+    "gf": "no",
+    "df": "no",
+    "image": "images/cinnamon_rolls.png"
+  },
+  {
+    "name": "Pound Cake",
+    "pop": 4.4,
+    "time": 1.5,
+    "gf": "no",
+    "df": "no",
+    "image": "images/pound_cake.png"
+  },
+  {
+    "name": "Chocolate Peanut Butter Cake",
+    "pop": 4.7,
+    "time": 3.5,
+    "gf": "no",
+    "df": "no",
+    "image": "images/pb_cake.png"
+  },
+  {
+    "name": "Macarons",
+    "pop": 4.2,
+    "time": 2.75,
+    "gf": "yes",
+    "df": "no",
+    "image": "images/macaron.png"
+  },
+  {
+    "name": "Snickerdoodles",
+    "pop": 4,
+    "time": 0.5,
+    "gf": "no",
+    "df": "no",
+    "image": "images/snickerdoodle.png"
+  },
+  {
+    "name": "Mint Brownies",
+    "pop": 4.6,
+    "time": 6,
+    "gf": "no",
+    "df": "no",
+    "image": "images/mint_brownies.png"
+  }
+]
