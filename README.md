@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+If you used the stencil code, this is `https://awesomeaxolotl39.github.io/development/`
 
 ### Goal and Value of the Application
 The goal of this application is to help bakers find recipes given their dietary restrictions and the time they have available to bake. It is
